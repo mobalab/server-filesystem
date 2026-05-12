@@ -1,15 +1,15 @@
 {
-  "name": "@modelcontextprotocol/server-filesystem",
+  "name": "@mobalab/server-filesystem",
   "version": "0.6.3",
   "description": "MCP server for filesystem access",
   "license": "SEE LICENSE IN LICENSE",
-  "mcpName": "io.github.modelcontextprotocol/server-filesystem",
-  "author": "Model Context Protocol a Series of LF Projects, LLC.",
-  "homepage": "https://modelcontextprotocol.io",
-  "bugs": "https://github.com/modelcontextprotocol/servers/issues",
+  "mcpName": "io.github.mobalab/server-filesystem",
+  "author": "Mobalab, KK",
+  "homepage": "https://mobalab.asia/",
+  "bugs": "https://github.com/mobalab/server-filesystem/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/modelcontextprotocol/servers.git"
+    "url": "https://github.com/mobalab/serve-filesystem.git"
   },
   "type": "module",
   "bin": {
